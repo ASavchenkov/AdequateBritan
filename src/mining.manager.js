@@ -1,0 +1,6 @@
+var miningManager = {
+
+    run: function() {
+        
+    }
+}
